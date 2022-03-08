@@ -1,2 +1,7 @@
 # Project exclude paths
 /cmake-build-debug/
+/.idea/active-tab-highlighter.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/randomNumbers.iml
+/.idea/vcs.xml
